@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/russross/blackfriday"
+	"github.com/jameshwang/web_apps_with_go/Godeps/_workspace/src/github.com/russross/blackfriday"
 )
 
 func main() {
